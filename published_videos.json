@@ -542,5 +542,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "grok-video-81745cd7-3013-4cb2-9b0a-39b2b74d0800.mp4",
+        "metadata": {
+            "title": "Anne Hathaway\u2019s Funniest, Fiercest, Most Iconic Moments (Red Carpet, Interviews & Big \u201cWait\u2014Did She Just Say That?!\u201d Energy)",
+            "description": "Okay besties, buckle up because this is your official dose of Anne Hathaway magic\u2014think jaw-dropping red carpet looks, effortlessly iconic fashion moments, and acting scenes that remind us why she\u2019s one of Hollywood\u2019s most talented queens. And yes, we\u2019re also diving into those hilarious interview snippets where she\u2019s so sharp, so witty, and just naturally funny that you can\u2019t help but laugh and fall even more in love with her personality. From glamorous style inspo to behind-the-scenes vibes that feel like peeking into her world, every second is pure \u201cAnne Hathaway Daily\u201d devotion. Like if you love Anne Hathaway! Comment your favorite Anne Hathaway movie or role! Share this with another Anne Hathaway fan! And follow Anne Hathaway Daily for the best Anne Hathaway content\u2014because the fun never ends. #annehathaway #hollywood #euphoria #spiderman #dune #challengers #annehathawaystyle #fashion #celebrity #redcarpet #annehathawayfan #actress #emmywinner #movies #thegreatestshowman",
+            "success_flags": {
+                "instagram_reel": false,
+                "instagram_story": false,
+                "facebook_reel": false,
+                "facebook_story": true,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
